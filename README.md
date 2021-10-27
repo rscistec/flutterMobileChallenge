@@ -21,7 +21,7 @@ La funcionalidad que se requiere implementar es un "Carrito de compra" y consta 
 
 
 ## Contact
-Si te surje cualquier duda sobre la prueba, no dudes en escribirnos un email.
+Si te surge cualquier duda sobre la prueba, no dudes en escribirnos un email.
 
 Rubén: [rsanchez@cistec.es](mailto:rsanchez@cistec.es)
 
